@@ -1,7 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="6778aa0f-50e7-46ed-9f3a-70d581c31529" name="Default Changelist" comment="" />
+    <list default="true" id="6778aa0f-50e7-46ed-9f3a-70d581c31529" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/db.sqlite3" beforeDir="false" afterPath="$PROJECT_DIR$/db.sqlite3" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/meals/admin.py" beforeDir="false" afterPath="$PROJECT_DIR$/meals/admin.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/snu/admin.py" beforeDir="false" afterPath="$PROJECT_DIR$/snu/admin.py" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -14,7 +19,12 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="UPDATE_TYPE" value="MERGE" />
+  </component>
   <component name="ProjectId" id="1XErrWuAeRGAdqoFqKb50IxyA8J" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showExcludedFiles" value="true" />
@@ -39,6 +49,10 @@
     <servers />
   </component>
   <component name="WindowStateProjectService">
+    <state x="451" y="145" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1581317761881">
+      <screen x="67" y="27" width="1853" height="923" />
+    </state>
+    <state x="451" y="145" key="#com.intellij.execution.impl.EditConfigurationsDialog/67.27.1853.923@67.27.1853.923" timestamp="1581317761881" />
     <state x="-62" y="115" key="SettingsEditor" timestamp="1581309802700">
       <screen x="67" y="27" width="891" height="913" />
     </state>
@@ -47,5 +61,9 @@
       <screen x="67" y="27" width="891" height="913" />
     </state>
     <state x="176" y="175" width="662" height="615" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser/67.27.891.913@67.27.891.913" timestamp="1581298872562" />
+    <state x="767" y="403" width="443" height="168" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1581317801057">
+      <screen x="67" y="27" width="1853" height="923" />
+    </state>
+    <state x="767" y="403" width="443" height="168" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/67.27.1853.923@67.27.1853.923" timestamp="1581317801057" />
   </component>
 </project>
